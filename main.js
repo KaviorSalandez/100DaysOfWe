@@ -6,7 +6,7 @@ var imgWidth = 120; // width of images (unit: px)
 var imgHeight = 170; // height of images (unit: px)
 
 // Link of background music - set 'null' if you dont want to play background music
-var bgMusicURL = './filemusic/y2mate.com - Please Tell Me Why Cover  Đỗ Lê Hồng Nhung x MinnLo  Fi Version by 1 9 6 7 Audio Lyrics Video.mp3';
+var bgMusicURL = '';
 var bgMusicControls = true; // Show UI music control
 
 
